@@ -1,24 +1,8 @@
 JDK Logging 定义7个日志级别
-	SEVERE 最高
-	WARING
-	INGO  默认级别
-	CONFIG
-	FINE
-	FINER
-	FINEST
+	SEVERE > WARING > INGO > CONFIG > FINE > FINER > FINEST
 	
 Commons Logging	 定义6个日志级别
-	FATAL最高
-	ERROR
-	WARING
-	INFO 默认级别
-	DEBUG
-	TRACE
-	
-Log4j  定义6个日志级别
-	FATAL最高
-	ERROR
-	WARING
-	INFO 默认级别
-	DEBUG
-	TRACE
+	FATAL > ERROR > WARING >INFO > DEBUG > TRACE
+
+Log4j  定义8个日志级别
+	OFF > FATAL > ERROR > WARN > INFO > DEBUG > TRACE > ALL
