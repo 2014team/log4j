@@ -1,24 +1,24 @@
-JDK Logging ¶¨Òå7¸öÈÕÖ¾¼¶±ð
-	SEVERE ×î¸ß
+JDK Logging å®šä¹‰7ä¸ªæ—¥å¿—çº§åˆ«
+	SEVERE æœ€é«˜
 	WARING
-	INGO  Ä¬ÈÏ¼¶±ð
+	INGO  é»˜è®¤çº§åˆ«
 	CONFIG
 	FINE
 	FINER
 	FINEST
 	
-Commons Logging	 ¶¨Òå6¸öÈÕÖ¾¼¶±ð
-	FATAL×î¸ß
+Commons Logging	 å®šä¹‰6ä¸ªæ—¥å¿—çº§åˆ«
+	FATALæœ€é«˜
 	ERROR
 	WARING
-	INFO Ä¬ÈÏ¼¶±ð
+	INFO é»˜è®¤çº§åˆ«
 	DEBUG
 	TRACE
 	
-Log4j  ¶¨Òå6¸öÈÕÖ¾¼¶±ð
-	FATAL×î¸ß
+Log4j  å®šä¹‰6ä¸ªæ—¥å¿—çº§åˆ«
+	FATALæœ€é«˜
 	ERROR
 	WARING
-	INFO Ä¬ÈÏ¼¶±ð
+	INFO é»˜è®¤çº§åˆ«
 	DEBUG
 	TRACE
